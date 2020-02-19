@@ -1,26 +1,52 @@
-.main-content{
-
+.main-content {
 }
 
-.hero{
-    background-image: url(./img/screen-code-coding-programming.jpg);
-    height: 700px;
-    width: 100%;
-    background-repeat: no-repeat;
-    background-size: cover;
+.hero {
+  background-image:linear-gradient(rgba( 107, 110, 112, .45),rgba( 107, 110, 112, .45)) ,url(./img/1024px-Computer-screen-code-glitch-animation-gif-background-free.gif) ;
+  height: 700px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
-.row1{
-    clear: both;
+.title{
+    color: white;
+    font-size: 60px;
+    position: relative;
+    left: 560px;
+    top: 350px;
 }
 
-.column1{
-    float: left;
-    height: 500px;
-    width: 32%;
-    padding: 10px;
+.row1 {
+  clear: both;
 }
 
-.column2{
-float: left;
+.row2 {
+  margin-left: 80px;
 }
+
+.column1 {
+  float: left;
+  color: white;
+  height: 500px;
+  width: 31%;
+  padding: 10px;
+  padding: 10px;
+  border: solid #dd0816;
+  border-width: 5px;
+  margin-left: 7px;
+  margin-bottom: 5px;
+}
+
+.column2 {
+  float: left;
+  color: white;
+  height: 500px;
+  width: 45%;
+  padding: 10px;
+  border: solid #dd0816;
+  border-width: 5px;
+  margin-left: 7px;
+  margin-bottom: 5px;
+}
+/* end of main content */

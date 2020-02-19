@@ -1,0 +1,20 @@
+/* Main content start */
+.hero {
+  background-image: url(./img/green-binary-wallpaper.jpg);
+  width: 100%;
+  height: 900px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.column1 {
+  float: left;
+  color: white;
+  height: 500px;
+  width: 31%;
+  padding: 10px;
+  border: solid #dd0816;
+  border-width: 5px;
+  margin-left: 7px;
+  margin-bottom: 5px;
+}
+/* main content end */
