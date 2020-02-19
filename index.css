@@ -2,19 +2,23 @@
 }
 
 .hero {
-  background-image:linear-gradient(rgba( 107, 110, 112, .45),rgba( 107, 110, 112, .45)) ,url(./img/1024px-Computer-screen-code-glitch-animation-gif-background-free.gif) ;
+  background-image: linear-gradient(
+      rgba(107, 110, 112, 0.45),
+      rgba(107, 110, 112, 0.45)
+    ),
+    url(./img/1024px-Computer-screen-code-glitch-animation-gif-background-free.gif);
   height: 700px;
   width: 100%;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
-.title{
-    color: white;
-    font-size: 60px;
-    position: relative;
-    left: 560px;
-    top: 350px;
+.title {
+  color: white;
+  font-size: 60px;
+  position: relative;
+  left: 560px;
+  top: 350px;
 }
 
 .row1 {
