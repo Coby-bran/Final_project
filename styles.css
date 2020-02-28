@@ -16,7 +16,7 @@ a {
 /* Navbar start */
 .navbar {
   height: 90px;
-  background-color: #dd0816;
+  background-color: #83050d;
   position: fixed;
   top: 0;
   width: 100%;
@@ -61,7 +61,7 @@ a {
   width: 100%;
   height: 125px;
   clear: both;
-  background-color: #dd0816;
+  background-color: #83050d;
 }
 
 .footer-item {
